@@ -65,7 +65,7 @@
 # print("frequency of digit is:",count)
 
 
-#2nd day
+#=========2nd day==================
 #1.Find the First Odd Digit
 # n=int(input('enter a number:'))
 # div=10**(len(str(n))-1)
@@ -158,7 +158,7 @@
 #     n=n//10
 # print(ans)
 
-#day3
+#====================day3=====================
 #1.Print a Number Pattern
 # 1
 # 12
